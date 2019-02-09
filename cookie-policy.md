@@ -19,7 +19,7 @@ _Tracking_
 We use cookies to identify you when you visit multiple pages on our site. This is important to understand how you navigate between pages and content. This information is used to improve your experience and in an anonymous form when published as research.
 
 # Research
-This service is provided by Open Lab, Newcastle University and is part of a research project. The data we collect from users when they use the service is likely to be analysed and published. We keep individual user data anonymous and respect user privacy. You can read more about how your data is used in research in our Research Policy.
+This service is provided by [Open Lab, Newcastle University](https://openlab.ncl.ac.uk) and is part of a research project. The data we collect from users when they use the service is likely to be analysed and published. We keep individual user data anonymous and respect user privacy. You can read more about how your data is used in research in our Research Policy.
 
 
 # Do we use other cookies?
